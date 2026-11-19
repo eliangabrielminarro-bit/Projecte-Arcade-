@@ -1,5 +1,6 @@
 # Contindrà la lògica dels jocs (les funcions).
-#Joc numero 2 
+#Joc Numero 1
+#Joc Numero 2 
 import random
 
 def nana():
