@@ -1,4 +1,4 @@
-#  és el menú principal i el bucle de l'aplicació.
+# Aquest és el menu principal 
 from jocs import janken, nana
 print("\n--- BENVINGUT/DA AL MINI ARCADE ---")
 print("1. Jugar a Pedra, paper, Tisora")
