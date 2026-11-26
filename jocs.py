@@ -30,7 +30,7 @@ def janken():
             jugada =input("Torna a jugar: ").lower()
 
         jugada_robot = maquina.playing()
-        print("Tu:", jugada_robot)
+        print("Tu:", jugada)
         print("Robot:", jugada_robot)
 
         if jugada == jugada_robot:
