@@ -9,7 +9,7 @@ def janken():
     ordenador = 0
     rondes = 0
 
-    print("\n--- PEDRA, PAPEL, TISORA ---")
+    print("\n--- PEDRA, PAPER, TISORA ---")
     print("1. El primer que arribi a 3 victories")
     print("2. Al millor de 5 rondes")
 
