@@ -22,7 +22,7 @@ def janken():
     while jugador < 3 and ordenador < 3 and (modo == "1" or rondes < 5):
 
         print("\n--- NOVA RONDA ---")
-        jugada = input("Pedra, paper o tisora").lower()
+        jugada = input("Escull una opció Pedra Paper o tisora?").lower()
 
         while jugada not in ["pedra", "paper", "tisora"]:
             print("Jugada incorrecta!")
