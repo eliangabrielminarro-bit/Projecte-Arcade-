@@ -4,7 +4,7 @@
 
 **Mini Arcade** és una aplicació amb dos jocs: Pedra, Paper, Tisora contra un robot i Endevinar el Número. Tot funciona des d'un menú interactiu.
 
-Per programar he utilitzat variables com ara jugador, ordenador, numero i intents, bucles while per repetir les partides, condicionals if, elif i else per comprovar les jugades, funcions per organitzar els jocs i  random per generar números i jugades aleatòries.
+Per programar he utilitzat variables com ara: jugador, ordenador, numero i intents, bucles while per repetir les partides, condicionals if, elif i else per comprovar les jugades, funcions per organitzar els jocs i  random per generar números i jugades aleatòries.
 
 ##  2. Com executar el projecte📝
 
